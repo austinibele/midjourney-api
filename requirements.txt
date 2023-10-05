@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+imageio
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+python-dotenv
